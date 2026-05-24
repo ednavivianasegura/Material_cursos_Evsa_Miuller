@@ -2,8 +2,6 @@ Autores: Edna Viviana Segura Alvarado - Hans Mauricio Carrillo Hernández
 
 Institución: Universidad de la Rioja
 
-Fecha: Mayo-Junio/2025
-
 Curso: PYTHON: PROGRAMACIÓN DE IA
 
 Manipulación y Procesamiento de Datos
@@ -27,12 +25,12 @@ Fundamentos de IA y Machine Learning
 •	Introducción a la Inteligencia Artificial y Machine Learning
 
 -	 Conceptos clave de IA, Machine Learning (ML) y Deep Learning
--	 Diferencias entre aprendizaje supervisado, no supervisado y por refuerzo
+-	 Diferencias entre aprendizaje supervisado, no supervisado
   
 •	Aprendizaje supervisado
 
 -	 Regresión lineal y logística
--	 Clasificación: KNN, SVM, Naive Bayes
+-	 Clasificación: SVM y Naive Bayes
 -	 Métricas de evaluación: precisión, recall, F1
   
 •	Aprendizaje no supervisado
@@ -52,7 +50,7 @@ Redes Neuronales y Deep Learning
 -	 Perceptrón y redes neuronales multicapa
 -	 Funciones de activación y retropropagación
   
-•	Implementación de redes neuronales con Keras y TensorFlow
+•	Implementación de redes neuronales con Pytorch
 
 -	 Configuración de modelos, capas, y optimización
 -	 Entrenamiento y ajuste de modelos de deep Learning
